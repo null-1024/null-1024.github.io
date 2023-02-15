@@ -1,6 +1,3 @@
 # null-1024.github.io
 
-hello
-https://t.me/xhqcankao/4210
-
-[time](./Time.remain.html)
+[click this https://t.me/xhqcankao/4210](https://t.me/xhqcankao/4210)
