@@ -1,5 +1,5 @@
 // https://zhuanlan.zhihu.com/p/59461859
-const END = new Date("2022/12/24/,00:00:00");
+const END = new Date("2023/2/16/,00:00:00");
 
 window.onload = function () {
     countDown();
